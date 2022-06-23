@@ -1,4 +1,4 @@
-# Python program to draw heaxagon
+# Python program to draw hexagon
 # using Turtle program
 
 import turtle
